@@ -1,0 +1,29 @@
+{
+  "name": "es6funct",
+  "version": "1.0.0",
+  "description": "gist es6",
+  "main": "esFunct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "Rob Smith",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "es6-promise": "^4.0.5",
+    "he": "^1.1.1",
+    "himalaya": "^0.2.6",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^1.16.3"
+  }
+}
